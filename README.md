@@ -1,4 +1,3 @@
-<img width="1834" height="932" alt="image" src="https://github.com/user-attachments/assets/aecf58c6-668e-4bef-b1c5-a8abfed6b5cb" />Assignment 2: Advanced CSS (Flexbox & Grid)
 Name: Kairatuly Miras
 
 Group: IT 2504
